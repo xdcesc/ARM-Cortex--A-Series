@@ -42,7 +42,18 @@
   * [SIMD](Part 7/simd.md)
   * [NEON 架构概述](Part 7/neon-jia-gou-gai-shu.md)
   * [NEON C 编译器和汇编器](Part 7/neon-c-bian-yi-qi-he-hui-bian-qi.md)
-
+* [第八章：缓存](Part 8/README.md)
+  * [为什么缓存会有所帮助](Part 8/wei-shen-me-huan-cun-hui-you-suo-bang-zhu.md)
+  * [缓存的缺点](Part 8/huan-cun-de-que-dian.md)
+  * [内存层次结构](Part 8/nei-cun-ceng-ci-jie-gou.md)
+  * [缓存架构](Part 8/huan-cun-jia-gou.md)
+  * [高速缓存策略](Part 8/gao-su-huan-cun-ce-lue.md)
+  * [写入和获取缓冲区](Part 8/xie-ru-he-huo-qu-huan-cun.md)
+  * [缓存性能和命中率](Part 8/huan-cun-xing-neng.md)
+  * [失效和清理缓存内存](Part 8/qing-li-huan-cun.md)
+  * [PoC & PoU](Part 8/poc-and-pou.md)
+  * [二级缓存控制器](Part 8/er-ji-huan-cun-cong-zhi-qi.md)
+  * [缓存中的 ECC 和奇偶校验](Part 8/huan-cun-zhong-de-ji-ou-jiao-yan.md)
 
 
 
